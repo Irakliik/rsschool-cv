@@ -66,4 +66,8 @@ body {
 
 .main-title {
   font-size: 1.8rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: #f7f7f7ec;
+  padding-top: 3rem;
 }
