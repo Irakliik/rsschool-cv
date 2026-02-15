@@ -89,10 +89,14 @@ body {
   color: #2d9cdb;
 }
 
+.skills-section ul {
+  padding-top: 2rem;
+}
+
 .skills-section ul li {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 0.4rem 0;
 }
 
 .progress-bar {
@@ -115,9 +119,11 @@ body {
   width: 70%;
 }
 
+.cpp-progress {
+  width: 70%;
+}
 .skill-title {
   text-transform: uppercase;
   color: #f7f7f7;
   font-size: 1rem;
-  padding-right: 1rem;
 }
