@@ -29,3 +29,41 @@ body {
   height: 100%;
   grid-column: span 5;
 }
+
+.left-content {
+  padding: 1rem 3rem;
+}
+
+.profile {
+  width: 100%;
+  border-bottom: 1px solid #002333;
+}
+
+.profile img {
+  width: 100%;
+  border-radius: 50%;
+  border: 8px solid #002333;
+  object-fit: cover;
+  padding: 1.2rem 0;
+}
+
+.name {
+  font-size: 2rem;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.career {
+  font-size: 1.6rem;
+  color: #94d9ea;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding-bottom: 1rem;
+}
+
+.main-title {
+  font-size: 1.8rem;
+}
