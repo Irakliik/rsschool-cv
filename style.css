@@ -122,8 +122,38 @@ body {
 .cpp-progress {
   width: 70%;
 }
+.node-progress {
+  width: 70%;
+}
+
+.html-progress {
+  width: 70%;
+}
 .skill-title {
   text-transform: uppercase;
   color: #f7f7f7;
   font-size: 1rem;
+}
+
+.sub-title {
+  padding-top: 2rem;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  color: #f7f7f7;
+}
+
+.sub-para {
+  color: #ccc;
+  padding: 0.4rem;
+}
+
+.references-section li {
+  color: #ccc;
+  padding: 0.2rem 0;
+}
+
+.references-section li i {
+  padding-right: 0.5rem;
+  font-size: 1.2rem;
+  color: #2d9cdb;
 }
