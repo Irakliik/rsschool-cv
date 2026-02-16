@@ -157,3 +157,12 @@ body {
   font-size: 1.2rem;
   color: #2d9cdb;
 }
+.right-main-content {
+  padding: 2rem 3rem;
+}
+
+.right-title {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #2f80ed;
+}
